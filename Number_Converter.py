@@ -9,7 +9,7 @@ converted_type = input("Enter the type of number to convert to, B for binary, O 
 #binary to octal/ octal to binary check
 #octal to decimal/decimal to octal check
 # octal to hex/hex to octal check
-#test commit
+#test commit3
 def binary_decimal(current, converted, numb):
     #binary to decimal
     if (current == "B" or current == "b") and (converted == "D" or converted == "d") and "." not in numb:
